@@ -1,0 +1,2 @@
+X_trainingset.txt filter=lfs diff=lfs merge=lfs -text
+Y_trainingset.txt filter=lfs diff=lfs merge=lfs -text
