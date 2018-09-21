@@ -5,7 +5,7 @@ from tensorflow.python.framework import ops
 import tf_units
 import time
 # 读取数据
-X_train_orig , Y_train_orig , X_test_orig , Y_test_orig= tf_units.load_dataset()
+X_train_orig, Y_train_orig, X_test_orig, Y_test_orig = tf_units.load_dataset()
 
 X_train = X_train_orig / 410
 X_test = X_test_orig / 410
@@ -34,10 +34,10 @@ def initialize_parameters():
 
     """
 
-    tf.set_random_seed(1) #指定随机种子
+    tf.set_random_seed(1)  # 指定随机种子
 
-    W1 = tf.get_variable("W1",[25,329],initializer=tf.contrib.layers.xavier_initializer(seed=1))
-    b1 = tf.get_variable("b1",[25,1],initializer=tf.zeros_initializer())
+    W1 = tf.get_variable("W1",  [25, 329], initializer=tf.contrib.layers.xavier_initializer(seed=1))
+    b1 = tf.get_variable("b1", [25, 1], initializer=tf.zeros_initializer())
     W2 = tf.get_variable("W2", [12, 25], initializer = tf.contrib.layers.xavier_initializer(seed=1))
     b2 = tf.get_variable("b2", [12, 1], initializer = tf.zeros_initializer())
     W3 = tf.get_variable("W3", [6, 12], initializer = tf.contrib.layers.xavier_initializer(seed=1))
@@ -53,7 +53,7 @@ def initialize_parameters():
     return parameters
 
 
-def forward_propagation(X,parameters):
+def forward_propagation(X, parameters):
     """
     实现一个模型的前向传播，模型结构为LINEAR -> RELU -> LINEAR -> RELU -> LINEAR -> SOFTMAX
 
@@ -73,13 +73,12 @@ def forward_propagation(X,parameters):
     W3 = parameters['W3']
     b3 = parameters['b3']
 
-    Z1 = tf.add(tf.matmul(W1,X),b1)        # Z1 = np.dot(W1, X) + b1
-    #Z1 = tf.matmul(W1,X) + b1             #也可以这样写
+    Z1 = tf.add(tf.matmul(W1, X), b1)        # Z1 = np.dot(W1, X) + b1
+    # Z1 = tf.matmul(W1,X) + b1             #也可以这样写
     A1 = tf.nn.relu(Z1)                    # A1 = relu(Z1)
     Z2 = tf.add(tf.matmul(W2, A1), b2)     # Z2 = np.dot(W2, a1) + b2
     A2 = tf.nn.relu(Z2)                    # A2 = relu(Z2)
     Z3 = tf.add(tf.matmul(W3, A2), b3)     # Z3 = np.dot(W3,Z2) + b3
-
-
     return Z3
+
 
