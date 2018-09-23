@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2590ff35-ed15-4304-b20a-1a480d5a1625" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shujuwaqu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shujuwaqu.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/123.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/tcl8.6/init.tcl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_asyncio.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_bz2.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_ctypes.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_ctypes_test.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_decimal.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_distutils_findvs.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_elementtree.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_hashlib.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_lzma.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_msi.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_multiprocessing.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_overlapped.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_socket.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_sqlite3.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_ssl.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_testbuffer.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_testcapi.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_testconsole.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_testimportmultiple.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_testmultiphase.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/_tkinter.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyexpat.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/python.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/python3.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/python36.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/select.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/sqlite3.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/tcl86t.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/tk86t.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/unicodedata.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/vcruntime140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/winsound.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_units.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf_units.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +17,8 @@
     <SUITE FILE_PATH="coverage/shujuwaqu$sousuo.coverage" NAME="sousuo Coverage Results" MODIFIED="1525936980944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Deeplearning$1.coverage" NAME="1 Coverage Results" MODIFIED="1537262040713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/shujuwaqu$beautifulsoup.coverage" NAME="beautifulsoup Coverage Results" MODIFIED="1525942984403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Deeplearning$test.coverage" NAME="test Coverage Results" MODIFIED="1537325099205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/shujuwaqu$X.coverage" NAME="X Coverage Results" MODIFIED="1537186187967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Deeplearning$test.coverage" NAME="test Coverage Results" MODIFIED="1537706604493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Deeplearning$tf_units.coverage" NAME="tf_units Coverage Results" MODIFIED="1537322461286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/shujuwaqu$dataset_1_.coverage" NAME="dataset(1) Coverage Results" MODIFIED="1537149978568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/shujuwaqu$taobaobijia.coverage" NAME="taobaobijia Coverage Results" MODIFIED="1526010985479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -184,34 +142,34 @@
     <session id="-294368862">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.41" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="25" />
+          <entry key="py" value="302" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="25" />
+          <entry key="Python" value="302" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -221,11 +179,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+            <state relative-caret-position="78">
+              <caret line="150" column="6" selection-start-line="150" selection-start-column="6" selection-end-line="150" selection-end-column="6" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+                <marker date="1537706604487" expanded="true" signature="2286:2291" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tf_units.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -260,6 +228,8 @@
       <find>15,19,3,8,9,14,19,14,10,11,1,11,3,12,3,9,16,16,1,2,8,14,9,11,3,2,17,11,4,11,386,19,15,4,20,2,11,14,1,11,20,3,2,15,10,10,10,11,9,17,4,12,14,14,8,16,18,4,3,19,9,4,295,12,11,3,4,19,1,3,3,9,19,8,16,12,19,2,5,15,386,20,11,6,19,3,5,2,20,18,10,17,1,5,10,14,12,13,8,13,19,2,8,19,13,1,10,3,18,10,3,2,1,10,10,9,11,3,20,5,4,11,20,9,5,11,6,11,9,2,11,15,14,9,9,10,14,1,12,17,18,9,8,9,205,9,5,5,10,18,3,14,6,3,11,17,10,9,10,11,13,8,2,3,14,2,11,7,8,14,14,19,14,5,19,17,3,13,4,6,9,2,16,16,8,10,11,14,15,20,15,11,10,3,13,2,15,1,10,9,18,2,11,2,10,11,18,18,10,15,15,11,4,4,8,14,4,9,10,18,8,6,2,18,9,3,10,10,18,4,10,4,13,6,11,4,2,17,8,9,19,2,3,2,4,14,10,14,9,14,3,4,1,8,18,9,13,5,17,7,18,11,9,17,10,10,4,7,18,10,19,1,8,4,19,11,12,4,10,20,12,4,11,8,14,9,10,4,8,14,19,17,8,5,15,14,2,14,17,4,11,13,9,1,12,8,17,13,2,17,15,14,11,3,17,3,1,11,9,7,18,14,2,8,20,17,15,11,18</find>
       <find>15,19,3,8,9,14,19,14,10,11,1,11,3,12,3,9,16,16,1,2,8,14,9,11,3,2,17,11,4,11,295,19,15,4,20,2,11,14,1,11,20,3,2,15,10,10,10,11,9,17,4,12,14,14,8,16,18,4,3,19,9,4,386,12,11,3,4,19,1,3,3,9,19,8,16,12,19,2,5,15,295,20,11,6,19,3,5,2,20,18,10,17,1,5,10,14,12,13,8,13,19,2,8,19,13,1,10,3,18,10,3,2,1,10,10,9,11,3,20,5,4,11,20,9,5,11,6,11,9,2,11,15,14,9,9,10,14,1,12,17,18,9,8,9,96,9,5,5,10,18,3,14,6,3,11,17,10,9,10,11,13,8,2,3,14,2,11,7,8,14,14,19,14,5,19,17,3,13,4,6,9,2,16,16,8,10,11,14,15,20,15,11,10,3,13,2,15,1,10,9,18,2,11,2,10,11,18,18,10,15,15,11,4,4,8,14,4,9,10,18,8,6,2,18,9,3,10,10,18,4,10,4,13,6,11,4,2,17,8,9,19,2,3,2,4,14,10,14,9,14,3,4,1,8,18,9,13,5,17,7,18,11,9,17,10,10,4,7,18,10,19,1,8,4,19,11,12,4,10,20,12,4,11,8,14,9,10,4,8,14,19,17,8,5,15,14,2,14,17,4,11,13,9,1,12,8,17,13,2,17,15,14,11,3,17,3,1,11,9,7,18,14,2,8,20,17,15,11,18</find>
       <find>soft</find>
+      <find>Z3</find>
+      <find>sigmoid</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -301,9 +271,9 @@
         <option value="$PROJECT_DIR$/dataset/seqs_mapping.fas" />
         <option value="$PROJECT_DIR$/X.py" />
         <option value="$PROJECT_DIR$/data_load.py" />
+        <option value="$PROJECT_DIR$/123.py" />
         <option value="$PROJECT_DIR$/tf_units.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/123.py" />
       </list>
     </option>
   </component>
@@ -365,7 +335,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.123">
+  <component name="RunManager" selected="Python.test">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="shujuwaqu" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -485,8 +455,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.123" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.123" />
         <item itemvalue="Python.tf_units" />
         <item itemvalue="Python.X" />
         <item itemvalue="Python.1" />
@@ -510,13 +480,13 @@
     <frame x="64" y="23" width="1376" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22188905" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22488755" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32464713" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.1878393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32356688" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4089172" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -562,9 +532,29 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="Z3.shape" language="Python" />
+        <watch expression="Y.shape" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>Y.shape</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Z3.shape</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/python/Lib/site-packages/bs4/element.py" />
-    <entry file="file://$PROJECT_DIR$/amazon.py" />
     <entry file="file://$PROJECT_DIR$/taobaobijia.py" />
     <entry file="file://$PROJECT_DIR$/sousuo.py" />
     <entry file="file://$PROJECT_DIR$/picutre.py" />
@@ -611,13 +601,6 @@
     <entry file="file://C:/python/Lib/site-packages/tensorflow/python/framework/tensor_shape.py" />
     <entry file="file://C:/python/Lib/site-packages/tensorflow/python/ops/nn_impl.py" />
     <entry file="file://$PROJECT_DIR$/../../week7/improv_utils.py" />
-    <entry file="file://$PROJECT_DIR$/tf_units.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/123.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
@@ -625,12 +608,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/framework/tensor_shape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="672" selection-start-line="672" selection-end-line="672" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="182" selection-start-line="182" selection-end-line="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_units.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+        <state relative-caret-position="78">
+          <caret line="150" column="6" selection-start-line="150" selection-start-column="6" selection-end-line="150" selection-end-column="6" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+            <marker date="1537706604487" expanded="true" signature="2286:2291" ph="..." />
           </folding>
         </state>
       </provider>
