@@ -151,7 +151,7 @@ def model(X_train, Y_train, X_test, Y_test, learning_rate=0.0001, num_epochs=500
                 (minibatch_X, minibatch_Y) = minibatch
 
                 #数据已经准备好了，开始运行session
-                _, minibatch_cost = sess.run([optimizer, cost], feed_dict={X:minibatch_X, Y:minibatch_Y})
+                _, minibatch_cost = sess.run([optimizer, cost], feed_dict={X: minibatch_X, Y: minibatch_Y})
 
                 #计算这个minibatch在这一代中所占的误差
                 epoch_cost = epoch_cost + minibatch_cost / num_minibatches
@@ -169,7 +169,7 @@ def model(X_train, Y_train, X_test, Y_test, learning_rate=0.0001, num_epochs=500
         print("参数已经保存到session。")
 
         #计算当前的预测结果
-        correct_prediction = tf.equal(sigmoid(Z3), Y)
+        correct_prediction = tf.equal(tf.sigmoid(Z3), Y)
 
         #计算准确率
         accuracy = tf.reduce_mean(tf.cast(correct_prediction, "float"))
@@ -180,6 +180,4 @@ def model(X_train, Y_train, X_test, Y_test, learning_rate=0.0001, num_epochs=500
         return parameters
 
 
-
 parameters = model(X_train, Y_train, X_test, Y_test)
-
